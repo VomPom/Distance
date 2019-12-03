@@ -8,5 +8,5 @@
  *******************************************************/
 
 public class Const {
-    public final static String KYE = "198dca83bc3a3a6249773f9094d09b88";
+    public final static String KYE = "key";
 }
